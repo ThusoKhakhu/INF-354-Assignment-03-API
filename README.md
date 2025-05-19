@@ -46,4 +46,4 @@ This project is a proof-of-concept application commissioned by a client, featuri
 
 ## Author
 Thuso Khakhu
-University of Pretoria: BCom informatics(stident): u22586522
+University of Pretoria: BCom informatics(student): u22586522
